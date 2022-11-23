@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/members",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Members\\Providers\\MembersServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Members\\": ""
+        }
+    }
+}

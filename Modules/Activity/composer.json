@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/activity",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Activity\\Providers\\ActivityServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Activity\\": ""
+        }
+    }
+}

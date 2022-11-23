@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/futureplane",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\FuturePlane\\Providers\\FuturePlaneServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\FuturePlane\\": ""
+        }
+    }
+}

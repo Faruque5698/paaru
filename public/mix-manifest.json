@@ -1,0 +1,23 @@
+{
+    "/assets/backend/js/jquery.min.js": "/assets/backend/js/jquery.min.js",
+    "/assets/backend/js/laravel.js": "/assets/backend/js/laravel.js",
+    "/assets/backend/webfonts/fa-brands-400.eot": "/assets/backend/webfonts/fa-brands-400.eot",
+    "/assets/backend/webfonts/fa-brands-400.svg": "/assets/backend/webfonts/fa-brands-400.svg",
+    "/assets/backend/webfonts/fa-brands-400.ttf": "/assets/backend/webfonts/fa-brands-400.ttf",
+    "/assets/backend/webfonts/fa-brands-400.woff": "/assets/backend/webfonts/fa-brands-400.woff",
+    "/assets/backend/webfonts/fa-brands-400.woff2": "/assets/backend/webfonts/fa-brands-400.woff2",
+    "/assets/backend/webfonts/fa-regular-400.eot": "/assets/backend/webfonts/fa-regular-400.eot",
+    "/assets/backend/webfonts/fa-regular-400.svg": "/assets/backend/webfonts/fa-regular-400.svg",
+    "/assets/backend/webfonts/fa-regular-400.ttf": "/assets/backend/webfonts/fa-regular-400.ttf",
+    "/assets/backend/webfonts/fa-regular-400.woff": "/assets/backend/webfonts/fa-regular-400.woff",
+    "/assets/backend/webfonts/fa-regular-400.woff2": "/assets/backend/webfonts/fa-regular-400.woff2",
+    "/assets/backend/webfonts/fa-solid-900.eot": "/assets/backend/webfonts/fa-solid-900.eot",
+    "/assets/backend/webfonts/fa-solid-900.svg": "/assets/backend/webfonts/fa-solid-900.svg",
+    "/assets/backend/webfonts/fa-solid-900.ttf": "/assets/backend/webfonts/fa-solid-900.ttf",
+    "/assets/backend/webfonts/fa-solid-900.woff": "/assets/backend/webfonts/fa-solid-900.woff",
+    "/assets/backend/webfonts/fa-solid-900.woff2": "/assets/backend/webfonts/fa-solid-900.woff2",
+    "/assets/backend/css/app_frontend.css": "/assets/backend/css/app_frontend.css",
+    "/assets/backend/js/app_frontend.js": "/assets/backend/js/app_frontend.js",
+    "/assets/backend/css/app_backend.css": "/assets/backend/css/app_backend.css",
+    "/assets/backend/js/app_backend.js": "/assets/backend/js/app_backend.js"
+}

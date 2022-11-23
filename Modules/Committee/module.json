@@ -1,0 +1,16 @@
+{
+  "name": "Committee",
+  "alias": "committee",
+  "description": "",
+  "keywords": [],
+  "active": 1,
+  "order": 0,
+  "providers": [
+    "Modules\\Committee\\Providers\\CommitteeServiceProvider"
+  ],
+  "aliases": {},
+  "files": [
+    "start.php"
+  ],
+  "requires": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/notice",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Notice\\Providers\\NoticeServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Notice\\": ""
+        }
+    }
+}

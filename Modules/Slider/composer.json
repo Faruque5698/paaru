@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/slider",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Slider\\Providers\\SliderServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Slider\\": ""
+        }
+    }
+}

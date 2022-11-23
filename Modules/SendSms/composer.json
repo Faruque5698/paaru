@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/sendsms",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\SendSms\\Providers\\SendSmsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SendSms\\": ""
+        }
+    }
+}

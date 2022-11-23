@@ -1,0 +1,16 @@
+{
+    "name": "Notice",
+    "alias": "notice",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Notice\\Providers\\NoticeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "start.php"
+    ],
+    "requires": []
+}

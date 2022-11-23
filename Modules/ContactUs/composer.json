@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/contactus",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\ContactUs\\Providers\\ContactUsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ContactUs\\": ""
+        }
+    }
+}

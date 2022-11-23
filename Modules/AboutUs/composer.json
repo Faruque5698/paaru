@@ -1,0 +1,25 @@
+{
+    "name": "nasirkhan/aboutus",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\AboutUs\\Providers\\AboutUsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\AboutUs\\": ""
+        }
+    }
+}

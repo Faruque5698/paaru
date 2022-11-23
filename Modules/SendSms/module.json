@@ -1,0 +1,16 @@
+{
+    "name": "SendSms",
+    "alias": "sendsms",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\SendSms\\Providers\\SendSmsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FuturePlane",
+    "alias": "futureplane",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\FuturePlane\\Providers\\FuturePlaneServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

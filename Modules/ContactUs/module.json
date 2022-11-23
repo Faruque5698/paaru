@@ -1,0 +1,16 @@
+{
+    "name": "ContactUs",
+    "alias": "contactus",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ContactUs\\Providers\\ContactUsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "start.php"
+    ],
+    "requires": []
+}

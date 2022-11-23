@@ -1,0 +1,253 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+body {
+  background: #ddd;
+  font-family: 'Lato', sans-serif;
+}
+
+.bb1px {
+  border-bottom: 1px solid #333;
+  padding: .35rem 0;
+}
+
+.form-print {
+  background: #fff;
+  width: 100%;
+  padding: 0 1rem;
+}
+
+.fp-header {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+  border-bottom: 1px solid #333;
+  padding: 1rem 0;
+}
+
+.fp-header-left.text-center {
+  float: left;
+  width: 75%;
+  display: block;
+  overflow: hidden;
+}
+
+.fp-header-left.text-center h3 {
+  text-decoration: underline;
+  line-height: 36px;
+  font-size: 24px;
+  color: #009FFF;
+  font-weight: 600;
+}
+
+.fp-header-left.text-center h4 {
+  font-size: 22px;
+  line-height: 30px;
+  color: #009FFF;
+  font-weight: 600;
+}
+
+.fp-hearer-right {
+  float: right;
+  width: 25%;
+  display: block;
+  overflow: hidden;
+}
+
+.fp-hearer-right img {
+  width: 130px;
+  border: 1px solid #999;
+  float: right;
+  margin-right: 20px;
+}
+
+.form-body {
+  display: block;
+  overflow: hidden;
+  font-size: 16px;
+}
+
+.form-body p {
+  margin-bottom: 0;
+}
+
+.form-body-mane {
+  width: 100%;
+  display: block;
+  overflow: hidden;
+}
+
+.form-body-mane .fbn-left {
+  float: left;
+  width: 65%;
+}
+
+.form-body-mane .fbn-left b {
+  display: block;
+  overflow: hidden;
+  width: 150px;
+  float: left;
+}
+
+.form-body-mane .fbn-right {
+  float: right;
+  width: 35%;
+}
+
+.form-body-mane .fbn-right span {
+  padding-right: 1rem;
+}
+
+.form-body-mane .fbn-right p strong {
+  color: #555;
+}
+
+.form-body-birth {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+}
+
+.form-body-birth b {
+  display: block;
+  overflow: hidden;
+  width: 150px;
+  float: left;
+}
+
+.form-body-degobt {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+}
+
+.form-body-degobt .fbn-left {
+  float: left;
+  width: 65%;
+}
+
+.form-body-degobt .fbn-left b {
+  display: block;
+  overflow: hidden;
+  width: 150px;
+  float: left;
+}
+
+.form-body-degobt .fbn-left strong {
+  display: block;
+  overflow: hidden;
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  color: #555;
+}
+
+.form-body-degobt .fbn-left span {
+  padding-right: 1.5rem;
+}
+
+.form-body-degobt .fbn-right {
+  float: right;
+  width: 35%;
+}
+
+.form-body-degobt .fbn-right strong {
+  display: block;
+  overflow: hidden;
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  color: #555;
+}
+
+.form-body-maddress {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+}
+
+.form-body-maddress .fbn-left {
+  display: block;
+  overflow: hidden;
+  width: 150px;
+  float: left;
+}
+
+.form-body-maddress .fbn-right {
+  display: block;
+  overflow: hidden;
+  float: left;
+  width: auto;
+}
+
+.form-body-maddress .fbn-right span {
+  padding-right: 1.5rem;
+}
+
+.form-body-maddress .fbn-right span b {
+  color: #555;
+}
+
+.apfm span {
+  padding-right: 1rem;
+}
+
+.form-body-mane.fb-sign {
+  padding-top: 2.5rem;
+}
+
+.form-body-mane.fb-sign .fbn-left {
+  padding-left: 9.5rem;
+}
+
+.form-body-mane.fb-office .fbn-left {
+  width: 30%;
+}
+
+.form-body-mane.fb-office .fbn-right {
+  width: 70%;
+}
+
+.form-body-mane.fb-office .fbn-right table,
+.form-body-mane.fb-office .fbn-right table th,
+.form-body-mane.fb-office .fbn-right table td {
+  border: 1px solid #333;
+}
+
+.form-body-mane.fb-office .fbn-right table td {
+  padding: .65rem .75rem;
+}
+/*# sourceMappingURL=main.css.map */
+.notification {
+  background-color: green;
+  color: white;
+  text-decoration: none;
+  padding: 15px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+.notification:hover {
+  background: red;
+}
+
+.notification .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  padding: 5px 10px;
+  border-radius: 100%;
+  background-color: green;
+  color: white;
+}
+
+.error {
+  color: red;
+  background-color: #acf;
+}

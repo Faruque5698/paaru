@@ -1,0 +1,28 @@
+{
+    "name": "nasirkhan/event",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nasir Khan",
+            "email": "nasir8891@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Event\\Providers\\EventServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Event\\": ""
+        }
+    },
+    "require": {
+        "barryvdh/laravel-dompdf": "^0.8.2"
+    }
+}

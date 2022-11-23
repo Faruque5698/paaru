@@ -1,0 +1,16 @@
+{
+    "name": "Journal",
+    "alias": "journal",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Journal\\Providers\\JournalServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "start.php"
+    ],
+    "requires": []
+}
